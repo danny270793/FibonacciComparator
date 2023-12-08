@@ -1,0 +1,11 @@
+bun/*
+!bun/*.ts
+
+go/*
+!go/*.mod
+!go/*.go
+
+java/.gradle
+java/app/build
+
+rust/target
