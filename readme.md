@@ -19,7 +19,6 @@ bash ./compare.sh
 
 ![command output](./images/example.png)
 
-
 ## Follow me
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5MAQWU2s2VESTXaUo-ysgg)
